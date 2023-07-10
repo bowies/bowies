@@ -1,4 +1,10 @@
-### Hi there 👋
+### 안녕하세요 👋
+### 감사해요 🙏
+### 잘 있어요 👋
+### 다시 만나요 😎
+
+[![안녕하세요](https://img.youtube.com/vi/xCLN7HiVr0o/0.jpg)](https://www.youtube.com/watch?v=xCLN7HiVr0o)
+
 
 <!--
 **bowies/bowies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
