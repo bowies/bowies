@@ -3,9 +3,8 @@
 ### 잘 있어요 👋
 ### 다시 만나요 😎
 
-[![안녕하세요](https://img.youtube.com/vi/xCLN7HiVr0o/0.jpg)](https://www.youtube.com/watch?v=xCLN7HiVr0o)
+[![BABY HEAD](https://y.yarn.co/85781acd-0e1a-4eda-8fb2-6fd53d302ee8_text.gif)](https://getyarn.io/yarn-clip/85781acd-0e1a-4eda-8fb2-6fd53d302ee8)
 
-2024년 좋아할 이미지 : https://y.yarn.co/85781acd-0e1a-4eda-8fb2-6fd53d302ee8.mp4
 
 <!--
 **bowies/bowies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
