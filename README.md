@@ -3,6 +3,9 @@
 ### 잘 있어요 👋
 ### 다시 만나요 😎
 
+public 으로 작은 잔디를 심고
+private 으로 나무를 심습니다.
+
 [![BABY HEAD](https://y.yarn.co/85781acd-0e1a-4eda-8fb2-6fd53d302ee8_text.gif)](https://getyarn.io/yarn-clip/85781acd-0e1a-4eda-8fb2-6fd53d302ee8)
 
 
