@@ -10,7 +10,7 @@
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=bowies)](https://github.com/bowies/github-profile-trophy)-->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bowies&theme=onedark)](https://github.com/bowies/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=bowies&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **bowies/bowies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
