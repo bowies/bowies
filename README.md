@@ -8,6 +8,10 @@
 
 [![BABY HEAD](https://y.yarn.co/85781acd-0e1a-4eda-8fb2-6fd53d302ee8_text.gif)](https://getyarn.io/yarn-clip/85781acd-0e1a-4eda-8fb2-6fd53d302ee8)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=bowies)](https://github.com/bowies/github-profile-trophy)
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=bowies&theme=onedark)](https://github.com/bowies/github-profile-trophy)
 
 <!--
 **bowies/bowies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
